@@ -187,7 +187,7 @@ Python basic codes for practice
   #init
   class Calculator:
       price=34#固有属性
-      def_init_(self,name,price,hight)#自定义属性,如果在这里写hight=12,运行后就不用                                      输入
+      def_init_(self,name,price,hight)#自定义属性,如果在这里写hight=12,运行后就不用输入
       self.name=name
       self.price=price
       self.h=hight
@@ -198,7 +198,7 @@ Python basic codes for practice
 + input
 
   ```
-  a_input=input('Please give a number:')#把用户输入值存到a_input中，input的返回值是                                        字符串
+  a_input=input('Please give a number:')#把用户输入值存到a_input中，input的返回值是字符串
   print('This number is:',a_input)
   #以下用来检验你的代码是否正确
   if a_input=='1':
