@@ -4,7 +4,7 @@ Python basic codes for practice
 
 ## 0 安装
 
-直接到官网下载安装包，如果是Windows用户，建议下载3.3或3.4版本，便于之后安装numpy等模块。安装完毕之后点击File，创建一个脚本。
+直接到官网下载安装包，如果是Windows用户，建议下载3以上，3.7以下版本，便于之后安装numpy等模块。安装完毕之后点击File，创建一个脚本。
 
 官网链接<https://www.python.org/>
 
